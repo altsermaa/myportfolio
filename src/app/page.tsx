@@ -232,7 +232,7 @@ export default function Portfolio() {
                     </Link>
                   </Button>
                   <Button variant="outline" size="sm" asChild>
-                    <Link href="https://onlineshop-cwno-6yjexzpiw-altsermaas-projects.vercel.app/" target="_blank">
+                    <Link href="https://onlineshop-dun-kappa.vercel.app/" target="_blank">
                       <ExternalLink className="mr-2 h-4 w-4" />
                       Live Demo
                     </Link>
