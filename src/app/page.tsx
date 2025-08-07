@@ -217,7 +217,7 @@ export default function Portfolio() {
               <CardContent className="space-y-4">
                 <CardTitle>E-commerce App</CardTitle>
                 <CardDescription>
-                  "A simple, fully responsive e-commerce website that allows customers to place orders without requiring a login. Orders are submitted with contact details and sent directly to the admin panel. The admin can manage products and update delivery statuses as needed. The site is easily customizable for any type of business by simply modifying the products and categories."
+                  "A simple, fully responsive e-commerce website that allows customers to place orders without requiring a login. Orders are submitted with contact details and sent directly to the admin panel. The admin can manage products and update order statuses as needed. The site is easily customizable for any type of business by simply modifying the products and categories."
                 </CardDescription>
                 <div className="flex flex-wrap gap-2">
                   <Badge variant="outline">Next.js</Badge>
@@ -232,7 +232,7 @@ export default function Portfolio() {
                     </Link>
                   </Button>
                   <Button variant="outline" size="sm" asChild>
-                    <Link href="https://onlineshop-dun-kappa.vercel.app/" target="_blank">
+                    <Link href="https://onlineshop-cwno.vercel.app/" target="_blank">
                       <ExternalLink className="mr-2 h-4 w-4" />
                       Live Demo
                     </Link>
