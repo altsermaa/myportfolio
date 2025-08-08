@@ -177,7 +177,7 @@ export default function Portfolio() {
               <CardContent className="space-y-4">
                 <CardTitle>Movie Web Application</CardTitle>
                 <CardDescription>
-                  "A fully responsive website showcasing the latest and highest-rated movies. Users can browse by genre, search for specific titles, and watch video trailers. The site integrates with external APIs, dynamically fetching data through query parameters to enable seamless navigation across different sections and genres."
+                  "A fully responsive website showcasing the latest and highest-rated movies. Users can browse by genre, search for specific titles, and watch video trailers. The site integrates with external APIs, dynamically fetching data through query parameters to enable seamless navigation across different sections and genres. Login via email:admin@gmail.com password:123123 to test admin page."
                 </CardDescription>
                 <div className="flex flex-wrap gap-2">
                   <Badge variant="outline">Next.js</Badge>
@@ -217,7 +217,7 @@ export default function Portfolio() {
               <CardContent className="space-y-4">
                 <CardTitle>E-commerce App</CardTitle>
                 <CardDescription>
-                  "A simple, fully responsive e-commerce website that allows customers to place orders without requiring a login. Orders are submitted with contact details and sent directly to the admin panel. The admin can manage products and update order statuses as needed. The site is easily customizable for any type of business by simply modifying the products and categories."
+                  "A simple, fully responsive e-commerce website that allows customers to place orders without requiring a login. Orders are submitted with contact details and sent directly to the admin panel. The admin can manage products and update order statuses as needed. The site is easily customizable for any type of business by simply modifying the products and categories. Change path to /admin to test admin page."
                 </CardDescription>
                 <div className="flex flex-wrap gap-2">
                   <Badge variant="outline">Next.js</Badge>
