@@ -141,7 +141,7 @@ export default function Portfolio() {
               <CardContent className="space-y-4">
                 <CardTitle>E-commerce website</CardTitle>
                 <CardDescription>
-                  "A full-featured e-commerce website for food ordering. It includes user registration with login, sign-up, input validation, and password reset functionality. Customers can browse and select food items, enter delivery addresses, and manage their cart. An admin panel enables product and order management with real-time updates."                   </CardDescription>
+                  "A full-featured e-commerce website for food ordering. It includes user registration with login, sign-up, input validation, and password reset functionality. Customers can browse and select food items, enter delivery addresses, and manage their cart. An admin panel enables product and order management with real-time updates.  Login via email:admin@gmail.com password:123123 to test admin page."                   </CardDescription>
                 <div className="flex flex-wrap gap-2">
                   <Badge variant="outline">React</Badge>
                   <Badge variant="outline">Node.js</Badge>
@@ -177,7 +177,7 @@ export default function Portfolio() {
               <CardContent className="space-y-4">
                 <CardTitle>Movie Web Application</CardTitle>
                 <CardDescription>
-                  "A fully responsive website showcasing the latest and highest-rated movies. Users can browse by genre, search for specific titles, and watch video trailers. The site integrates with external APIs, dynamically fetching data through query parameters to enable seamless navigation across different sections and genres. Login via email:admin@gmail.com password:123123 to test admin page."
+                  "A fully responsive website showcasing the latest and highest-rated movies. Users can browse by genre, search for specific titles, and watch video trailers. The site integrates with external APIs, dynamically fetching data through query parameters to enable seamless navigation across different sections and genres."
                 </CardDescription>
                 <div className="flex flex-wrap gap-2">
                   <Badge variant="outline">Next.js</Badge>
