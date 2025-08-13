@@ -112,7 +112,6 @@ export default function Portfolio() {
             <div className="space-y-4">
               <h3 className="text-xl font-semibold">Tools & Cloud</h3>
               <div className="flex flex-wrap gap-2">
-                <Badge variant="secondary">AWS</Badge>
                 <Badge variant="secondary">Git</Badge>
                 <Badge variant="secondary">Vercel</Badge>
                 <Badge variant="secondary">Render</Badge>
