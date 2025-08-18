@@ -203,7 +203,7 @@ export default function Portfolio() {
               </CardContent>
             </Card>
 
-            <Card className="group hover:shadow-lg transition-shadow">
+            {/* <Card className="group hover:shadow-lg transition-shadow">
               <CardHeader>
                 <Image
                   src="/onlineShop.png"
@@ -238,7 +238,7 @@ export default function Portfolio() {
                   </Button>
                 </div>
               </CardContent>
-            </Card>
+            </Card> */}
           </div>
         </div>
       </section>
